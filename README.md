@@ -1,7 +1,7 @@
 
 NAME DARF NICHT GEÄNDERT WERDEN SONST GEHT ES NICHT MEHR!!
 
-ich weiß der link unten funktioniert nicht mehr aber ist sein wunsch in seiner lizenz gewesen
+Ich weiß der Link unten funktioniert nicht mehr aber es ist sein Wunsch in seiner Lizenz gewesen.
 
 
 Hallo, ich habe ein altes Hud von https://github.com/string-null/np_carryped angepasst das das wieder läuft.
